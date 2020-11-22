@@ -1,0 +1,49 @@
+.App {
+    background: black;
+    color: white;
+    text-align: center;
+  }
+  
+  button {
+    width: 30%;
+    font-size: 1rem;
+    padding: 0.5rem 2rem;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-transform: capitalize;
+    background: dodgerblue;
+    color: white;
+    border-radius: 10px;
+  }
+  button:hover {
+    background-color: burlywood;
+    color: black;
+  }
+  
+  input {
+    display: inline-block;
+    width: 20%;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 1rem;
+    padding: 0.5rem 0.3rem;
+    border-radius: 5px;
+    border: 1px solid dodgerblue;
+    text-transform: capitalize;
+  }
+  
+  .smurf {
+    margin: auto;
+    width: 80%;
+    background-blend-mode: lighten;
+    background-color: white;
+    box-shadow: 2px 2px 15px 0px rgba(38, 38, 38, 0.92);
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 1rem;
+    padding: 0.4rem;
+    text-transform: capitalize;
+    color: #333;
+    cursor: pointer;
+  }
+  
